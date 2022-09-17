@@ -1,2 +1,2 @@
 # curso-js
- Respostas ao desafio 3 do curso javascript ninja
+ Respostas dos desafios referntes ao curso javascript ninja
